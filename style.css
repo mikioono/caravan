@@ -119,7 +119,7 @@ main{
   padding-top: 50px;
 }
 
-.pagination p{
+.pagination p {
   display:inline-block;
   width:30px;
   height: 30px;
@@ -135,7 +135,7 @@ main{
 }
 
 .commond-heading{
-  border-bottom: 8px solid #f7f7f7;
+  border-bottom: 8px solid#f7f7f7;
   text-align: center;
   line-height:0.6;
 }
@@ -156,6 +156,11 @@ main{
   margin:0;
   padding:0;
   border:none;
+}
+
+.ionstagram.sidebar-contents {
+  display: flex;
+  flex-wrap:wrap;
 }
 
 .instagram-box{
